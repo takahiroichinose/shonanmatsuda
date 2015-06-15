@@ -1,0 +1,81 @@
+/* CSS Document */
+
+body {
+background-image: url(../model/images/bg2.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.modelbox{
+	width:565px;
+	float:left;
+	margin-top:70px;
+	margin-bottom:50px;
+	margin-left:0px;
+	margin-right:0px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:20px;
+	text-align:left;
+	border-left: 1px solid #cccccc;
+}
+.center{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+}
+section{
+	height:auto;
+
+}
+table{
+	width:515;
+	margin-top:50px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	padding:0px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+td{
+	padding:5px;
+
+}
+.model{
+	width:515px;
+	margin-top:50px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:20px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:30px;
+	border-bottom: 1px solid #cccccc;
+}
+.model dt{
+	font-family: "Times New Roman", Times, serif;
+	margin:0px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:0px;
+	border-bottom: 1px solid #cccccc;
+	font-size:14px;
+}
+.model dd{
+	margin-top:20px;
+	margin-left:20px;;
+	margin-right:20px;;
+	margin-bottom:20px;
+	padding:0px;
+
+}
+.model dd.name{
+	font-size:17px;
+	margin-left:30px;
+	margin-top:30px;
+	margin-bottom:10px;
+}

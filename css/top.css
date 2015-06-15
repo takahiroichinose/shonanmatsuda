@@ -1,0 +1,18 @@
+/* CSS Document */
+
+header {
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	background-position: top;
+	padding: 0px;
+
+	margin: 0px;
+	height: 745px;
+	border-bottom: 1px solid #000000;
+	position:relative;
+}
+.slidebox{
+	position:absolute;
+	bottom:10px;
+	left:334px;
+}

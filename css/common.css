@@ -1,0 +1,274 @@
+/* CSS Document */
+
+body {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	line-height: 170%;
+	color: #666;
+}
+a {
+	color: #666;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration:underline;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.mainbox {
+	padding: 0px;
+	width: 1000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+h1{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:70px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	text-align:center;
+}
+
+h3{
+	font-size:14px;
+	font-family: "Times New Roman", Times, serif;
+	margin:10px;
+	padding:0px;
+	text-align:left;
+}
+h3.model{
+	width:480px;
+	margin-top:70px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	text-align:left;
+}
+h3.modelinfo{
+	margin-top:10px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	text-align:center;
+	font-size:34px;
+}
+
+a:hover img {
+  opacity: 0.6;
+  transition: 0.7s;
+}
+.sns{
+	margin-top:20px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	width:78px;
+}
+.sns li{
+	margin:10px;
+	padding:0px;
+	float:left;
+	list-style:none;
+}
+.clear{
+	clear:both;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.topmenu{
+	margin-top:20px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	width: 732px;
+}
+.topmenu li{
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:20px;
+	margin-right:20px;
+	padding: 0px;
+	float: left;
+	list-style: none;
+	font-family: "Times New Roman", Times, serif;
+}
+.undermenu{
+	text-align:left;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	padding:0px;
+}
+.undermenu li{
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	padding: 0px;
+	list-style: none;
+	font-family: "Times New Roman", Times, serif;
+}
+.modelmenu{
+	text-align:left;
+	margin-top:30px;
+	margin-bottom:50px;
+	margin-left:45px;
+	margin-right:0px;
+	padding:0px;
+}
+.modelmenu li{
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	padding: 0px;
+	list-style: none;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.newsbox{
+	width:433px;
+	margin-top:20px;
+	margin-bottom:50px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+}
+.news{
+	margin:7px;
+	padding:0px;
+	text-align:left;
+}
+.news dt{
+	margin:3px;
+	padding:0px;
+}
+.news dd{
+	margin-top:3px;
+	margin-bottom:5px;
+	margin-left:10px;
+	margin-right:3px;
+	;
+	padding:0px;
+}
+footer {
+	padding: 0px;
+	margin: 0px;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	position:relative;
+height: 100px;
+}
+footer .privacy{
+	position:absolute;
+	top:30px;
+	left:15px;
+	text-align:left;
+}
+footer .privacy2{
+	position:absolute;
+	top:55px;
+	left:35px;
+	text-align:left;
+}
+footer .info{
+	position:absolute;
+	top:10px;
+	right:15px;
+	text-align:left;
+}
+p{
+	margin:5px;
+	padding:0px;
+}
+address{
+	font-size:11px;
+	margin:10px;
+	padding:0px;
+	text-align:center;
+}
+.txt_l{
+	text-align:left;
+}
+header .box{
+	width:430px;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+}
+header .left{
+	margin:0px;
+	padding:0px;
+	width:250px;
+	float:left;
+	text-align:left;
+}
+
+header .right{
+	margin-top:57px;
+	padding:0px;
+	width:100px;
+	float:right;
+	text-align:left;
+}
+.main_l{
+	margin:0px;
+	padding:0px;
+	width:250px;
+	float:left;
+	text-align:left;
+}
+
+.main_r{
+	margin-top:57px;
+	padding:0px;
+	width:720px;
+	float:right;
+	text-align:left;
+}
+#page-top {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	font-size: 77%;
+}
+#page-top a {
+	text-decoration: none;
+	color: #FFF;
+	width: 100px;
+	text-align: center;
+	display: block;
+	border-radius: 5px;
+	background-color: #000;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-bottom: 20px;
+	padding-left: 0;
+}
+#page-top a:hover {
+	text-decoration: none;
+	color: #000;
+	background-color: #FFF;
+	border: 1px solid #000;
+}

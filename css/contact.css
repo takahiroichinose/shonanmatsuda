@@ -1,0 +1,77 @@
+/* CSS Document */
+
+body {
+background-image: url(../contact/images/bg.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.contactbox{
+	width:480px;
+	float:right;
+	margin:40px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:20px;
+	text-align:left;
+	border-left: 1px solid #cccccc;
+}
+table{
+	margin-top:0px;
+	margin-bottom:30px;
+	padding:0px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table.form{
+	margin-top:30px;
+
+}
+th{
+	width:110px;
+	padding:7px;
+	vertical-align: top;
+}
+
+td{
+	padding:7px;
+	margin:0px;
+}
+td ul{
+	margin-left:20px;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding:0px;
+}
+.center{
+	text-align:center;
+	margin-top:0px;
+	margin-bottom:10px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+}
+input, textarea{
+	background-color:#F5F5F5;
+}
+input{
+	height:20px;
+}
+input#submit_button {
+padding-top: 10px;
+padding-bottom:10px;
+padding-left:20px;
+padding-right:20px;
+font-size: 1.2em;
+background-color: #cccccc;
+color: #000000;
+border-style: none;
+height:40px;
+}
+.undermenu li a, .undermenu li a:visited{
+	color:#ffffff;
+	text-decoration:none;
+}
+.undermenu li a:hover{
+	color:#ffffff;
+	text-decoration:underline;
+}
